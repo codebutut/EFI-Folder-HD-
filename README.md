@@ -9,5 +9,5 @@
   "Audio": "Realtec, ALC892",
   "VGA": "NVIDIA GT 710 (Kepler)",
   "Bootloader": "OpenCore 0.8.8",
-  }
-  ```
+ }
+ ```
