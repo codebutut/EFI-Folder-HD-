@@ -1,6 +1,6 @@
 # Specifications
 
-```
+```json
 {
   "Processor": "AMD Ryzen 5 5600x (6 Core)",
   "Motherboard": "MSI B550M Bazooka",
